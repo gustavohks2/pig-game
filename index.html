@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="utf-8">
+    <title>Pig Game</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/animation.css">
+  </head>
+  <body>
+    <section class="game-panel">
+
+      <div id="player-0-panel" class="player-panel active-player">
+        <h1 class="player-name">Player 1</h1>
+        <span id="player-0-global" class="player-global-score">0</span>
+        <div class="current">
+          <h2>Current</h2>
+          <span id="player-0-current" class="current-score">0</span>
+        </div>
+      </div>
+
+      <div id="player-1-panel" class="player-panel">
+        <h1 class="player-name">Player 2</h1>
+        <span id="player-1-global" class="player-global-score">0</span>
+        <div class="current">
+          <h2>Current</h2>
+          <span id="player-1-current" class="current-score">0</span>
+        </div>
+      </div>
+
+      <span id="new-game-btn" class="new-game">New Game</span>
+      <img id="dice-1" class="dice" src="img/dice-1.jpg" alt="Dice">
+      <img id="dice-2" class="dice" src="img/dice-1.jpg" alt="Dice">
+      <span id="roll-dice-btn" class="roll-dice">Roll Dice</span>
+      <span id="hold-score-btn" class="hold-score">Hold Score</span>
+      <div class="max-score">
+        <p>Max Score</p>
+        <input id="max-score-input" class="max-score-input" type="number">
+        <button type="submit" name="button"></button>
+      </div>
+    </section>
+
+    <audio id="victory-sound" style="display: none;">
+      <source src="audio/winning_sound_effect.mp3" type="audio/mp3">
+    </audio>
+
+    <script src="js/main.js"></script>
+  </body>
+</html>

@@ -1,0 +1,11 @@
+@-webkit-keyframes dance {
+  0% { transform: scale(1) translateX(-50%); }
+  50% { transform: scale(1.2) translateX(-50%); }
+  100% { transform: scale(1) translateX(-50%); }
+}
+
+@keyframes dance {
+  0% { transform: scale(1) translateX(-50%); }
+  50% { transform: scale(1.2) translateX(-50%); }
+  100% { transform: scale(1) translateX(-50%); }
+}
