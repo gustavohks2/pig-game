@@ -3,6 +3,8 @@
 I developed this game in order to absorb my knowledge on the matter, in this case, the front-end development, mostly in Javascript, 
 so I based in this awesome complete Javascript Course that I highly recommend taking, it is really worth it.
 
+[https://www.udemy.com/the-complete-javascript-course/]
+
 ## Game Rules
 
 There are the Current Score and Global Score
@@ -27,8 +29,10 @@ field called Max Score and press Roll Dices.
 
 ```
 
+A winning sound effects rings when the threshold is reached! 🔊🎶
+
 ## Screenshots
 
-```
-![First Screenshot of the game]url()
-```
+![screenshot_1](https://user-images.githubusercontent.com/22922799/29175064-6c569db6-7dbe-11e7-9396-d5c588266899.png)
+![screenshot_2](https://user-images.githubusercontent.com/22922799/29175062-6c5028d2-7dbe-11e7-9612-1f0b64b5aab8.png)
+![screenshot_3](https://user-images.githubusercontent.com/22922799/29175063-6c55bbc6-7dbe-11e7-87d8-f21acabc0836.png)
