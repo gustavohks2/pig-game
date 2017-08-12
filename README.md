@@ -1,5 +1,7 @@
 # Pig Game based on Udemy Javascript Course
 
+### Live Demo: https://gustavohks2.github.io/pig-game/
+
 I developed this game in order to absorb my knowledge on the matter, in this case, the front-end development, mostly in Javascript, 
 so I based in this awesome complete Javascript Course that I highly recommend taking, it is really worth it.
 
@@ -29,7 +31,7 @@ field called Max Score and press Roll Dices.
 
 ```
 
-A winning sound effects rings when the threshold is reached! 🔊🎶
+A winning sound effect rings when the threshold is reached! 🔊🎶
 
 ## Screenshots
 
