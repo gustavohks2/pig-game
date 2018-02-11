@@ -3,7 +3,7 @@
 ### Live Demo: https://gustavohks2.github.io/pig-game/
 
 I developed this game in order to absorb my knowledge on the matter, in this case, the front-end development, mostly in Javascript, 
-so I based in this awesome complete Javascript Course that I highly recommend taking, it is really worth it.
+so I relied on this awesome complete Javascript Course that I highly recommend you taking, it is really worth the learning process of it.
 
 [https://www.udemy.com/the-complete-javascript-course/]
 
@@ -11,15 +11,15 @@ so I based in this awesome complete Javascript Course that I highly recommend ta
 
 There are the Current Score and Global Score
 
-Current Score: Keeps the scores of the round/turn.
-Global Score: Keeps the scores of all rounds togheter if is requested to be held/kept.
+Current Score: Keeps track of the round/turn's scores.
+Global Score: Keeps track the scores of all rounds togheter if is requested to be held/kept.
 
 ```
-✔ To play this game, it will be necessary two ✌ players in order for the game to be more funny.
+✔ To play this game, it will be necessary two ✌ players in order for you to have more fun.
 
-✔ For rolling the dices is necessary that the Roll Dices text/button is clicked.
+✔ As for rolling the dices is necessary that the Roll Dices text/button is clicked.
 
-✔ For keeping the score before losing is necessary that the Hold Score text/button is clicked.
+✔ And as for keeping the score before losing is necessary that the Hold Score text/button is clicked.
 
 ✔ If you want to change the maximum score, just type the desired maximum score amount in the 
 field called Max Score and press Roll Dices.
